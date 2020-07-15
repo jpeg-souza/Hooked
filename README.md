@@ -45,8 +45,8 @@ The app can be deployed using either heroku or Netlify
 # Contribution
 Please read the [CONTRIBUTING.md](#) file (Soon to be added) to see how you can contribute and add more features to the project.
 
-# Autores (github.com/)
-samie820
-afozbek
+# Authors (github.com/)
+- samie820
+- afozbek
 
 
