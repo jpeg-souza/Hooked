@@ -23,7 +23,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/samie820/hooks-movie-app.git
+git clone https://github.com/GroovyDog/Hooked.git
 ```
 
 - Install all the project's dependencies:
